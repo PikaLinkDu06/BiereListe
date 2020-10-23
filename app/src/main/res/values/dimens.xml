@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="common_width">50dp</dimen>
+    <dimen name="common_height">150dp</dimen>
+    <dimen name="common_textsize">25sp</dimen>
+</resources>

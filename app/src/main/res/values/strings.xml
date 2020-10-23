@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BiereListe</string>
+
+    <string-array name="bieres">
+        <item>Corona</item>
+        <item>Desperados</item>
+        <item>Leffe</item>
+        <item>Pietra</item>
+        <item>Bud</item>
+        <item>Heineken</item>
+    </string-array>
+
+</resources>
